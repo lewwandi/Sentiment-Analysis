@@ -193,4 +193,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-artifacts/kaggle.json
+artifacts/kaggle.jsonartifacts/kaggle.json
